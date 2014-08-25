@@ -1,0 +1,5 @@
+In this directory you need the file:
+acssmc-1.1.1.jar
+
+You can find it from
+http://android.acs.com.hk/
